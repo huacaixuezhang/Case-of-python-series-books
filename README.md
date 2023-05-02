@@ -1,0 +1,3 @@
+这个项目是关于本人在学习蟒蛇系列书籍的时候的相关内容。项目中的全部内容来自于该系列书籍中的相关项目。
+第一个项目：alien_invasion 外星人入侵的射击游戏
+第二个项目：data_visualization 数据可视化（关于使用Matplotlib和plotly处理csv和json数据的小案例）
